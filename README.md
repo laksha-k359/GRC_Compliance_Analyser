@@ -1,4 +1,4 @@
-# GRC_Compliance_Analyser
+# GRC_Compliance_Analyser Using CrewAI
 
 Problem Statement: 
 To develop a multi-agent-based GRC (Governance, Risk, and Compliance) assessment 
